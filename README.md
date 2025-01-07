@@ -49,4 +49,4 @@ Proyek ini adalah untuk memprediksi dan menganalisis penyebab kepuasan pelanggan
    ```
 ## 📖 Cara Penggunaan
 
-Buka di browser: https://aaa3-35-201-170-126.ngrok-free.app
+Buka di browser: [https://aaa3-35-201-170-126.ngrok-free.app](https://5899-34-125-11-130.ngrok-free.app)
